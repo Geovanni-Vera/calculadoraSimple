@@ -1,8 +1,8 @@
 #include "librerias.h"
 
-void leerDato(void);
+void leerDato(char a[],int b);
 
-double suma(double x, double y)
+double suma()
 {
-
+    
 }
